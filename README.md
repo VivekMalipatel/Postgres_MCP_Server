@@ -1,4 +1,4 @@
-# PostgreSQL MCP (Model Context Protocol)
+# PostgreSQL MCP Server (Model Context Protocol)
 
 A basic implementation of FastMCP for PostgreSQL, enabling direct interaction with PostgreSQL databases from Claude AI.
 
