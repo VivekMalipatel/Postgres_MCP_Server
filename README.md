@@ -1,6 +1,15 @@
-# PostgreSQL MCP (Minimum Capability Provider)
+# PostgreSQL MCP (Model Context Protocol)
 
 A basic implementation of FastMCP for PostgreSQL, enabling direct interaction with PostgreSQL databases from Claude AI.
+
+With this MCP, you can transform your AI chat experience by:
+- Storing and retrieving chat data in PostgreSQL databases
+- Creating AI applications with persistent data storage
+- Building knowledge management systems with structured database queries
+- Analyzing large datasets directly through natural language prompts
+- Implementing database-driven workflows without writing traditional code
+
+This implementation leverages the MCP protocol to securely bridge Claude AI with PostgreSQL databases, allowing Claude to execute operations on your behalf while maintaining proper isolation and security boundaries.
 
 ## Features
 
